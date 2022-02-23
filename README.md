@@ -19,6 +19,8 @@ With the help of scientist tourism operators and Queensland University of techno
 Up to 2021 great barrier reef foundation manually counts COTS within range in GBFR to analyze outbreak of COTS which is not accurate , with help of object detection model and Underwater video footage , thousands of reef images and the AI technology could drastically improved efficiency and scale at which the reef manages detect and control COTS outbreaks.
 Our work will help researchers identify species that are threatening Australia's Great Barrier Reef and take well-informed action to protect the reef for future generations.
 
+Final Output Video
+
 ![model_Output_video_final_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/99066414/155348536-d7fa7f96-df0f-42cc-8342-30854831a86f.gif)
 
 
